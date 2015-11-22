@@ -1,8 +1,10 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <LVClass LVVersion="15008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">BNT_DSCXYGraph.lvlib</Property>
-	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../BNT_DSCXYGraph.lvlib</Property>
+	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../BNT_DSCXYGraph.lvlib</Property>
 	<Property Name="NI.Lib.Description" Type="Str">This is the actor to display X-Y graphs of traces stored in DSC historical database.
+
+Lizenziert unter EUPL V. 1.1 
 
 Copyright 2015 Holger.Brand@BrandNewTechnologies.de
 
