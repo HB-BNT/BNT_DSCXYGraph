@@ -33,6 +33,8 @@ Getting started:
 - You need to extend your project specific ini-file.
   - A sample ini-file should be available on disk in the corresponding package folder.
 
+Lizenziert unter EUPL V. 1.1 
+  
 Author: Holger.Brand@BrandNewTechnologies.de
 
 Copyright 2015  Brand New Technologies
