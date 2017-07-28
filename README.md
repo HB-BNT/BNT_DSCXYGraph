@@ -1,11 +1,12 @@
-BNT_DSCXYGraph extends the CSPP_Core package of the CS++-Project. 
+Readme
+======
+BNT\_DSCXYGraph extends the CSPP\_Core package of the CS++-Project. 
 
-It contains a derived classes of
-- CS++GUIActor
+It contains a derived classes of CSPP_GUIActor.
 
 Refer to https://github.com/HB-GSI/CSPP for CS++ project overview, details and documentation.
 
-LabVIEW 2015 is the currently used development environment.
+LabVIEW 2017 is the currently used development environment.
 
 Related documents and information
 =================================
@@ -18,13 +19,14 @@ Related documents and information
 
 GIT Submodules
 ==============
-This package can be used as submodule
+This package can be used as submodule.
+
 - Packages\BNT_DSCXYGraph:
   - BNT_DSCXYGraph
 
 External Dependencies
 ---------------------
-- CSPP_Core: http://github.com/HB-GSI/CSPP_Core
+- CSPP_Core: https://git.gsi.de/EE-LV/CSPP/CSPP_Core
 - LabVIEW DSC Module
 
 Getting started:
@@ -41,10 +43,10 @@ Copyright 2015  Brand New Technologies
 
 Dr. holger Brand, Asternweg 12a, 64291 Darmstadt, Germany
 
-Lizenziert unter der EUPL, Version 1.1 oder - sobald diese von der Europ‰ischen Kommission genehmigt wurden - Folgeversionen der EUPL ("Lizenz"); Sie d¸rfen dieses Werk ausschlieﬂlich gem‰ﬂ dieser Lizenz nutzen.
+Lizenziert unter der EUPL, Version 1.1 oder - sobald diese von der Europ√§ischen Kommission genehmigt wurden - Folgeversionen der EUPL ("Lizenz"); Sie d√ºrfen dieses Werk ausschlie√ülich gem√§√ü dieser Lizenz nutzen.
 
 Eine Kopie der Lizenz finden Sie hier: http://www.osor.eu/eupl
 
-Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher Form vereinbart, wird die unter der Lizenz verbreitete Software "so wie sie ist", OHNE JEGLICHE GEWƒHRLEISTUNG ODER BEDINGUNGEN - ausdr¸cklich oder stillschweigend - verbreitet.
+Sofern nicht durch anwendbare Rechtsvorschriften gefordert oder in schriftlicher Form vereinbart, wird die unter der Lizenz verbreitete Software "so wie sie ist", OHNE JEGLICHE GEW√ÑHRLEISTUNG ODER BEDINGUNGEN - ausdr√ºcklich oder stillschweigend - verbreitet.
 
-Die sprachspezifischen Genehmigungen und Beschr‰nkungen unter der Lizenz sind dem Lizenztext zu entnehmen.
+Die sprachspezifischen Genehmigungen und Beschr√§nkungen unter der Lizenz sind dem Lizenztext zu entnehmen.
