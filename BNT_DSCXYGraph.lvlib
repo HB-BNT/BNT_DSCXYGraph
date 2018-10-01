@@ -44,6 +44,7 @@ Asternweg 12a, 64291 Darmstadt, Germany</Property>
 	<Property Name="Serialized ACL" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
 	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
+		<Item Name="Action" Type="Folder"/>
 		<Item Name="Read Decimated Traces Msg.lvclass" Type="LVClass" URL="../BNT_DSCXYGraph Messages/Read Decimated Traces Msg/Read Decimated Traces Msg.lvclass"/>
 	</Item>
 	<Item Name="BNT_DSCXYGraph.ini" Type="Document" URL="../BNT_DSCXYGraph/BNT_DSCXYGraph.ini"/>
